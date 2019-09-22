@@ -1,0 +1,4 @@
+house1;roof1;pipe1;1;1
+house1;roof1;pipe1;1;1
+house1;roof1;pipe1;1;1
+house2;roof2;pipe2;2;2
