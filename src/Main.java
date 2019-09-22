@@ -110,7 +110,6 @@ public class Main {
 
         System.out.println("--- START ---");
         System.out.println("введите команду: ");
-        C
 
         Scenario scenario = new Scenario() {
             @Override
@@ -125,11 +124,8 @@ public class Main {
                     Shorty unknownShorty = new Shorty("Неизвестный коротышка", 4);
                     unknownShorty.setPlace(house);
                     Rope rope = new Rope();
-
                     ArrayList<Object> houses = new ArrayList<Object>();
                     houses.add(house);
-
-
                     znayka.move(new Jump(), arbor);
                     znayka.setFeeling(AHuman.Feeling.NICE);
                     // arbor.existHuman(vintik);
