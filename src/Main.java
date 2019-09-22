@@ -12,6 +12,8 @@ import java.util.*;
 
 public class Main {
 
+	// changed by Tehnopat
+
     interface Scenario {
         void Run();
     }
